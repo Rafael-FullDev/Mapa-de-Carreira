@@ -11945,7 +11945,6 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .containerIMG {
   width: 100%;
   height: 220px;
-  background-color: gray;
 
   & img{
     width: 100%;
